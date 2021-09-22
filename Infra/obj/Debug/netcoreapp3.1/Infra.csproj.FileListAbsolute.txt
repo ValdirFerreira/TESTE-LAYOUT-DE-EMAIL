@@ -1,0 +1,9 @@
+C:\Projetos\EnvioEmailAula\EnvioEmail\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Projetos\EnvioEmailAula\EnvioEmail\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Projetos\EnvioEmailAula\EnvioEmail\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Projetos\EnvioEmailAula\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Projetos\EnvioEmailAula\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Projetos\EnvioEmailAula\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Projetos\EnvioEmailAula\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\EnvioEmailAula\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\Projetos\EnvioEmailAula\EnvioEmail\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
